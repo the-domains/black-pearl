@@ -1,7 +1,7 @@
 name: Black Pearl
 favicon: null
-layout_spectrum: 0.9642843992915004
-typography_spectrum: 0.48237454635091126
+layout_spectrum: 0.90644
+typography_spectrum: 0.36291
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.44849127111956477
+    - '#020202'
+    - '#e0cecd'
+    - '#0e3d64'
+    - '#b3aaa8'
+    - '#456f85'
+  brandStrength: 0.4375
   lightness: 0.32517083501443267
   saturation: 0.8613452347926795
   rhythmicContrast: 0.4183171931654215
